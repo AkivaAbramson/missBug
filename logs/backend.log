@@ -1,0 +1,275 @@
+10.7.2023, 15:53:05 - INFO - Server listening on port http://127.0.0.1:3030/
+10.7.2023, 16:06:37 - INFO - Server listening on port http://127.0.0.1:3030/
+10.7.2023, 16:07:31 - INFO - Bug undefined removed
+10.7.2023, 16:07:42 - INFO - Bug undefined removed
+10.7.2023, 16:07:46 - INFO - Bug undefined removed
+10.7.2023, 16:07:55 - INFO - Bug saved! | {"_id":"x5lpk","title":"bla","severity":1}
+10.7.2023, 16:08:03 - INFO - Bug saved! | {"_id":"fN9cc","title":"daaa","severity":2}
+10.7.2023, 16:08:19 - INFO - Bug saved! | {"_id":"hIy5w","title":"daaa","severity":3}
+10.7.2023, 16:08:31 - INFO - Bug undefined removed
+10.7.2023, 16:09:30 - INFO - Bug undefined removed
+10.7.2023, 16:09:32 - INFO - Bug undefined removed
+10.7.2023, 16:09:38 - INFO - Bug saved! | {"_id":"ltgcW","title":"add","severity":1}
+10.7.2023, 16:09:46 - INFO - Bug saved! | {"_id":"WdN4H","title":"baddd","severity":1}
+10.7.2023, 16:09:56 - INFO - Bug saved! | {"_id":"n3hFb","title":"gadddd","severity":3}
+10.7.2023, 16:14:11 - INFO - Bug saved! | {"_id":"WJ2K1","title":"דגדג","severity":3}
+10.7.2023, 16:14:25 - INFO - Bug undefined removed
+10.7.2023, 16:16:17 - INFO - Bug undefined removed
+10.7.2023, 16:16:53 - INFO - Bug WJ2K1 removed
+10.7.2023, 16:18:04 - INFO - Bug saved! | {"_id":"xdGk3","title":"!!!","severity":2}
+10.7.2023, 16:18:13 - INFO - Bug saved! | {"_id":"svWxH","title":"@@@","severity":2}
+10.7.2023, 16:18:36 - INFO - Bug xdGk3 removed
+10.7.2023, 16:21:26 - INFO - Bug svWxH removed
+10.7.2023, 16:22:17 - INFO - Bug saved! | {"_id":"n3hFb","title":"gadddd","severity":2}
+10.7.2023, 16:44:39 - INFO - Bug saved! | {"_id":"SHKZx","title":"bla","severity":3}
+10.7.2023, 16:44:56 - INFO - Bug saved! | {"_id":"yCDWM","title":"haaaa","severity":1}
+10.7.2023, 16:54:44 - INFO - Bug saved! | {"_id":"eEOM0","severity":null}
+10.7.2023, 17:03:34 - INFO - Server listening on port http://127.0.0.1:3030/
+10.7.2023, 17:16:46 - INFO - Server listening on port http://127.0.0.1:3030/
+10.7.2023, 17:32:18 - INFO - Server listening on port http://127.0.0.1:3030/
+10.7.2023, 17:33:12 - INFO - Server listening on port http://127.0.0.1:3030/
+10.7.2023, 17:34:15 - INFO - Server listening on port http://127.0.0.1:3030/
+10.7.2023, 17:35:20 - INFO - Server listening on port http://127.0.0.1:3030/
+10.7.2023, 17:38:42 - INFO - Server listening on port http://127.0.0.1:3030/
+10.7.2023, 17:44:44 - INFO - Server listening on port http://127.0.0.1:3030/
+10.7.2023, 17:51:26 - INFO - Server listening on port http://127.0.0.1:3030/
+10.7.2023, 17:52:54 - INFO - Server listening on port http://127.0.0.1:3030/
+10.7.2023, 17:58:21 - INFO - Bug eEOM0 removed
+10.7.2023, 17:59:56 - INFO - Server listening on port http://127.0.0.1:3030/
+10.7.2023, 18:01:27 - INFO - Server listening on port http://127.0.0.1:3030/
+10.7.2023, 18:01:46 - INFO - Bug saved! | {"_id":"yCDWM","title":"haaaa","severity":2}
+10.7.2023, 18:01:54 - INFO - Bug saved! | {"_id":"tkjQn","title":"hello","severity":3}
+10.7.2023, 18:07:31 - INFO - Bug tkjQn removed
+10.7.2023, 18:07:43 - INFO - Bug saved! | {"_id":"zYwoG","title":"!!!","severity":2}
+10.7.2023, 18:08:12 - INFO - Server listening on port http://127.0.0.1:3030/
+10.7.2023, 18:08:43 - INFO - Bug yCDWM removed
+10.7.2023, 18:08:59 - INFO - Bug zYwoG removed
+10.7.2023, 18:13:40 - INFO - Server listening on port http://127.0.0.1:3030/
+10.7.2023, 18:14:37 - INFO - Server listening on port http://127.0.0.1:3030/
+10.7.2023, 18:15:03 - INFO - Bug saved! | {"_id":"AbGM5","title":"!!!","severity":3}
+10.7.2023, 18:15:21 - INFO - Server listening on port http://127.0.0.1:3030/
+10.7.2023, 18:16:57 - INFO - Server listening on port http://127.0.0.1:3030/
+10.7.2023, 18:17:56 - INFO - Server listening on port http://127.0.0.1:3030/
+10.7.2023, 18:24:11 - INFO - Server listening on port http://127.0.0.1:3030/
+10.7.2023, 18:24:37 - INFO - Bug saved! | {"_id":"OX1fb","title":"@@","severity":1}
+10.7.2023, 18:25:16 - INFO - Bug OX1fb removed
+10.7.2023, 18:46:53 - INFO - Server listening on port http://127.0.0.1:3030/
+10.7.2023, 18:53:56 - INFO - Server listening on port http://127.0.0.1:3030/
+10.7.2023, 18:59:43 - INFO - Server listening on port http://127.0.0.1:3030/
+10.7.2023, 19:01:46 - INFO - Server listening on port http://127.0.0.1:3030/
+10.7.2023, 19:03:43 - INFO - Server listening on port http://127.0.0.1:3030/
+10.7.2023, 19:04:11 - INFO - Server listening on port http://127.0.0.1:3030/
+10.7.2023, 19:14:32 - INFO - Server listening on port http://127.0.0.1:3030/
+10.7.2023, 19:14:57 - INFO - Bug saved! | {"_id":"GoSjy","title":"bla","severity":3}
+10.7.2023, 19:23:13 - INFO - Server listening on port http://127.0.0.1:3030/
+10.7.2023, 19:23:32 - INFO - Bug saved! | {"_id":"l8xGX","title":"!@","severity":null}
+10.7.2023, 19:24:16 - INFO - Bug l8xGX removed
+10.7.2023, 19:24:33 - INFO - Bug saved! | {"_id":"tUoDk","title":"akiva","severity":2}
+10.7.2023, 19:25:28 - INFO - Bug GoSjy removed
+10.7.2023, 19:25:31 - INFO - Bug tUoDk removed
+10.7.2023, 19:25:49 - INFO - Bug saved! | {"_id":"7CKFY","title":"akiva","severity":1}
+10.7.2023, 19:30:57 - INFO - Server listening on port http://127.0.0.1:3030/
+10.7.2023, 19:31:15 - INFO - Bug 7CKFY removed
+10.7.2023, 19:31:33 - INFO - Bug saved! | {"_id":"3k3KL","title":"akiva","severity":1}
+10.7.2023, 19:35:22 - INFO - Server listening on port http://127.0.0.1:3030/
+10.7.2023, 19:35:34 - INFO - Bug 3k3KL removed
+10.7.2023, 19:35:47 - INFO - Bug saved! | {"_id":"vfVRu","title":"akiva","severity":1,"description":"problem when clicking Save"}
+10.7.2023, 19:43:52 - INFO - Server listening on port http://127.0.0.1:3030/
+10.7.2023, 19:44:13 - INFO - Bug saved! | {"_id":"wCblA","title":"hadas","severity":3,"description":"cute"}
+10.7.2023, 22:09:39 - INFO - Bug wCblA removed
+10.7.2023, 22:09:41 - INFO - Bug vfVRu removed
+10.7.2023, 22:09:56 - INFO - Bug saved! | {"_id":"y9wRV","title":"@@@","severity":1,"description":"very rare"}
+11.7.2023, 16:23:04 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 16:24:09 - INFO - Bug saved! | {"_id":"y9wRV","title":"@@@","severity":1,"description":"hello"}
+11.7.2023, 16:24:35 - INFO - Bug y9wRV removed
+11.7.2023, 16:24:51 - INFO - Bug saved! | {"_id":"AbGM5","title":"!!!","severity":1,"description":"Button is missing"}
+11.7.2023, 16:25:07 - INFO - Bug saved! | {"_id":"9NXX6","title":"hello","severity":2,"description":"blabla"}
+11.7.2023, 16:28:35 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 16:29:13 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 16:31:34 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 17:16:54 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 17:17:28 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 17:19:05 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 17:22:21 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 17:27:45 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 17:33:02 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 17:36:08 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 17:36:28 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 17:37:31 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 17:38:23 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 17:38:38 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 17:39:44 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 17:41:10 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 17:41:53 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 17:42:04 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 17:44:10 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 17:44:21 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 17:46:04 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 17:46:56 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 17:56:03 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 17:57:24 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 17:58:09 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 17:58:49 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 17:59:30 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 17:59:49 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 18:00:30 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 18:00:41 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 18:04:05 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 18:09:39 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 18:14:08 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 18:18:27 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 18:18:56 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 18:25:04 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 18:25:46 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 18:26:54 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 18:27:11 - INFO - Bug saved! | {"title":"bla","severity":3,"description":"hi","_id":"EdQ8f"}
+11.7.2023, 18:27:40 - INFO - Bug saved! | {"title":"akiva","severity":3,"description":"abramson","_id":"pJdmj"}
+11.7.2023, 18:28:24 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 18:28:45 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 18:31:15 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 18:31:21 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 18:31:38 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 18:31:57 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 18:32:30 - INFO - Bug pJdmj removed
+11.7.2023, 18:32:35 - INFO - Bug n3hFb removed
+11.7.2023, 18:32:46 - INFO - Bug saved! | {"_id":"EdQ8f","title":"bla","severity":3,"description":"bye"}
+11.7.2023, 18:34:34 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 18:38:59 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 18:39:48 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 18:41:02 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 18:42:51 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 18:43:42 - INFO - Bug saved! | {"title":"hi","severity":3,"description":"##","_id":"kmPBG"}
+11.7.2023, 18:43:52 - INFO - Bug saved! | {"_id":"kmPBG","title":"hi","severity":2,"description":"##"}
+11.7.2023, 18:45:10 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 18:48:19 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 18:48:52 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 18:52:41 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 18:53:34 - INFO - Bug saved! | {"_id":"kmPBG","title":"hi","severity":2,"description":"##$"}
+11.7.2023, 19:03:47 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 19:08:04 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 19:10:17 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 19:11:05 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 19:20:28 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 19:24:07 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 19:25:56 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 19:26:58 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 19:32:54 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 19:33:30 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 19:34:08 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 19:35:58 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 19:36:55 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 19:39:26 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 19:39:59 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 19:40:24 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 19:40:38 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 19:40:51 - INFO - Bug SHKZx removed
+11.7.2023, 19:40:58 - INFO - Bug saved! | {"_id":"AbGM5","title":"!!!","severity":2,"description":"Button is missing"}
+11.7.2023, 19:41:28 - INFO - Bug saved! | {"_id":"kmPBG","title":"bye","severity":2,"description":"##$"}
+11.7.2023, 19:41:34 - INFO - Bug kmPBG removed
+11.7.2023, 20:02:18 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 20:03:37 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 20:04:35 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 20:05:18 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 20:05:49 - INFO - Bug saved! | {"title":"hadas","severity":3,"description":"abramson","_id":"yauRr"}
+11.7.2023, 20:06:33 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 20:10:27 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 20:13:33 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 20:33:48 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 20:36:40 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 20:39:03 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 20:39:28 - INFO - Bug saved! | {"title":"akiva","severity":3,"description":"abramson","createdAt":"2023-07-11T17:39:15.634Z","labels":["critical","need-CR","dev-branch"],"_id":"sIorn"}
+11.7.2023, 20:40:00 - INFO - Bug yauRr removed
+11.7.2023, 20:40:09 - INFO - Bug 9NXX6 removed
+11.7.2023, 20:40:10 - INFO - Bug AbGM5 removed
+11.7.2023, 20:40:20 - INFO - Bug EdQ8f removed
+11.7.2023, 20:40:35 - INFO - Bug saved! | {"_id":"sIorn","title":"!!!","severity":3,"description":"@@@","createdAt":"2023-07-11T17:39:15.634Z","labels":["critical","need-CR","dev-branch"]}
+11.7.2023, 20:40:47 - INFO - Bug saved! | {"title":"hi","severity":1,"description":"bye","createdAt":"2023-07-11T17:40:41.117Z","labels":["critical","need-CR","dev-branch"],"_id":"EQkpw"}
+11.7.2023, 20:41:00 - INFO - Bug saved! | {"title":"lolo","severity":2,"description":"popo","createdAt":"2023-07-11T17:40:50.107Z","labels":["critical","need-CR","dev-branch"],"_id":"nbzbN"}
+11.7.2023, 20:41:10 - INFO - Bug saved! | {"title":"momo","severity":2,"description":"nono","createdAt":"2023-07-11T17:41:04.307Z","labels":["critical","need-CR","dev-branch"],"_id":"o1qK2"}
+11.7.2023, 20:41:42 - INFO - Bug saved! | {"_id":"sIorn","title":"bobo","severity":3,"description":"fofo","createdAt":"2023-07-11T17:39:15.634Z","labels":["critical","need-CR","dev-branch"]}
+11.7.2023, 20:43:27 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 20:47:40 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 20:48:51 - INFO - Bug o1qK2 removed
+11.7.2023, 20:48:52 - INFO - Bug nbzbN removed
+11.7.2023, 20:48:59 - INFO - Bug EQkpw removed
+11.7.2023, 20:49:01 - INFO - Bug sIorn removed
+11.7.2023, 20:49:09 - INFO - Bug saved! | {"title":"puki","severity":1,"description":"muki","createdAt":1689097744076,"labels":["critical","need-CR","dev-branch"],"_id":"9IyOE"}
+11.7.2023, 20:49:20 - INFO - Bug saved! | {"title":"lolo","severity":1,"description":"momo","createdAt":1689097753490,"labels":["critical","need-CR","dev-branch"],"_id":"5Gop6"}
+11.7.2023, 20:49:34 - INFO - Bug saved! | {"title":"bobo","severity":2,"description":"nono","createdAt":1689097762965,"labels":["critical","need-CR","dev-branch"],"_id":"RXqjc"}
+11.7.2023, 20:49:46 - INFO - Bug saved! | {"title":"hi","severity":3,"description":"bye","createdAt":1689097780235,"labels":["critical","need-CR","dev-branch"],"_id":"VG4wl"}
+11.7.2023, 20:57:21 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 21:45:34 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 21:47:25 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 21:48:44 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 21:52:23 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 21:54:40 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 21:58:11 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 22:00:01 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 22:04:59 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 22:06:49 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 22:08:44 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 22:11:33 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 22:13:19 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 22:15:12 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 22:15:31 - INFO - Bug saved! | {"title":"gaga","severity":2,"description":"!!","createdAt":1689102924308,"labels":["critical","need-CR","dev-branch"],"_id":"DHIv4"}
+11.7.2023, 22:15:41 - INFO - Bug saved! | {"title":"lala","severity":1,"description":"##","createdAt":1689102934771,"labels":["critical","need-CR","dev-branch"],"_id":"eGxVN"}
+11.7.2023, 22:15:55 - INFO - Bug saved! | {"title":"misunini","severity":3,"description":"$%^","createdAt":1689102944619,"labels":["critical","need-CR","dev-branch"],"_id":"giDtG"}
+11.7.2023, 22:19:06 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 22:53:05 - INFO - Bug giDtG removed
+11.7.2023, 23:40:06 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 23:40:21 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 23:55:03 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 23:57:37 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 23:57:52 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 23:58:30 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 23:59:00 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 23:59:12 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 23:59:21 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 23:59:46 - INFO - Server listening on port http://127.0.0.1:3030/
+11.7.2023, 23:59:59 - INFO - Server listening on port http://127.0.0.1:3030/
+12.7.2023, 0:00:23 - INFO - Server listening on port http://127.0.0.1:3030/
+12.7.2023, 0:00:30 - INFO - Server listening on port http://127.0.0.1:3030/
+12.7.2023, 16:49:42 - INFO - Server listening on port http://127.0.0.1:3030/
+12.7.2023, 16:50:43 - INFO - Server listening on port http://127.0.0.1:3030/
+12.7.2023, 16:51:35 - INFO - Server listening on port http://127.0.0.1:3030/
+12.7.2023, 16:54:58 - INFO - Server listening on port http://127.0.0.1:3030/
+12.7.2023, 16:56:26 - INFO - Server listening on port http://127.0.0.1:3030/
+12.7.2023, 16:56:29 - INFO - Server listening on port http://127.0.0.1:3030/
+12.7.2023, 16:59:28 - INFO - Server listening on port http://127.0.0.1:3030/
+12.7.2023, 17:00:35 - INFO - Server listening on port http://127.0.0.1:3030/
+12.7.2023, 17:01:45 - INFO - Server listening on port http://127.0.0.1:3030/
+12.7.2023, 17:02:18 - INFO - Server listening on port http://127.0.0.1:3030/
+12.7.2023, 17:30:06 - INFO - Server listening on port http://127.0.0.1:3030/
+12.7.2023, 17:32:09 - INFO - Server listening on port http://127.0.0.1:3030/
+12.7.2023, 17:35:37 - INFO - Server listening on port http://127.0.0.1:3030/
+12.7.2023, 17:37:39 - INFO - Server listening on port http://127.0.0.1:3030/
+12.7.2023, 17:38:20 - INFO - Server listening on port http://127.0.0.1:3030/
+12.7.2023, 17:44:13 - INFO - Server listening on port http://127.0.0.1:3030/
+12.7.2023, 17:44:40 - INFO - Server listening on port http://127.0.0.1:3030/
+12.7.2023, 17:45:13 - INFO - Server listening on port http://127.0.0.1:3030/
+12.7.2023, 17:48:11 - INFO - Server listening on port http://127.0.0.1:3030/
+12.7.2023, 17:49:24 - INFO - Server listening on port http://127.0.0.1:3030/
+12.7.2023, 17:50:34 - INFO - Server listening on port http://127.0.0.1:3030/
+12.7.2023, 17:53:40 - INFO - Bug saved! | {"title":"viviz","severity":3,"description":"badddd","createdAt":1689173608210,"labels":["critical","need-CR","dev-branch"],"_id":"YswBc"}
+12.7.2023, 18:03:31 - INFO - Server listening on port http://127.0.0.1:3030/
+12.7.2023, 18:13:18 - INFO - Server listening on port http://127.0.0.1:3030/
+12.7.2023, 18:14:26 - INFO - Server listening on port http://127.0.0.1:3030/
+12.7.2023, 18:15:28 - INFO - Bug saved! | {"title":"fofo","severity":3,"description":"crazy","createdAt":1689174914490,"labels":["critical","need-CR","dev-branch"],"_id":"fOP0K","owner":{"_id":"njejQ","fullname":"Akiva Abramson","username":"akiva","password":"12345"}}
+12.7.2023, 18:35:44 - INFO - Server listening on port http://127.0.0.1:3030/
+12.7.2023, 18:36:11 - INFO - Bug saved! | {"title":"!!!","severity":1,"description":"###","createdAt":1689176166130,"labels":["critical","need-CR","dev-branch"],"_id":"M52PF","owner":{"_id":"njejQ","fullname":"Akiva Abramson","username":"akiva","password":"12345"}}
+12.7.2023, 18:38:04 - INFO - Server listening on port http://127.0.0.1:3030/
+12.7.2023, 18:38:57 - INFO - Server listening on port http://127.0.0.1:3030/
+12.7.2023, 18:39:10 - INFO - Bug saved! | {"_id":"M52PF","title":"!!!","severity":1,"description":"$$$","createdAt":1689176166130,"labels":["critical","need-CR","dev-branch"]}
+12.7.2023, 18:40:17 - INFO - Server listening on port http://127.0.0.1:3030/
+12.7.2023, 19:44:15 - INFO - Bug saved! | {"_id":"M52PF","title":"!!!","severity":1,"description":"ין","createdAt":1689176166130,"labels":["critical","need-CR","dev-branch"]}
+12.7.2023, 19:50:40 - INFO - Server listening on port http://127.0.0.1:3030/
+12.7.2023, 19:52:26 - INFO - Server listening on port http://127.0.0.1:3030/
+12.7.2023, 19:53:27 - INFO - Server listening on port http://127.0.0.1:3030/
+12.7.2023, 19:55:45 - INFO - Server listening on port http://127.0.0.1:3030/
+12.7.2023, 19:56:12 - INFO - Server listening on port http://127.0.0.1:3030/
+12.7.2023, 19:57:24 - INFO - Server listening on port http://127.0.0.1:3030/
+12.7.2023, 19:57:33 - INFO - Server listening on port http://127.0.0.1:3030/
+12.7.2023, 19:59:47 - INFO - Server listening on port http://127.0.0.1:3030/
+12.7.2023, 20:01:07 - INFO - Server listening on port http://127.0.0.1:3030/
+12.7.2023, 20:02:15 - INFO - Server listening on port http://127.0.0.1:3030/
+12.7.2023, 21:46:18 - INFO - Server listening on port http://127.0.0.1:3030/
